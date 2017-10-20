@@ -16,7 +16,7 @@ If the font owner find your font(s) is here and want to remove.
 Please contact me to see what we can work around or I will remove it as soon as possible if you wish.
 ```
 
-## Thaisans Neue 1.0
+## ThaiSans Neue 1.0
 - **Designer:** [Letsego](http://www.f0nt.com/author/letsego/)
 - **Source:** [http://www.f0nt.com/release/thaisans-neue-1-0/](http://www.f0nt.com/release/thaisans-neue-1-0/)
 - **License:** [thaisans-neue/License.pdf](thaisans-neue/License.pdf)
