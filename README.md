@@ -22,4 +22,5 @@ Please contact me to see what we can work around or I will remove it as soon as 
 - **License:** [thaisans-neue/License.pdf](thaisans-neue/License.pdf)
 - **Category:** Sans Serif
 - **CSS File:** [thaisans-neue/thaisans-neue.css](thaisans-neue/thaisans-neue.css)
+- **CSS URL:** [https://spicydog.github.io/beautiful-thai-fonts/thaisans-neue/thaisans-neue.css](https://spicydog.github.io/beautiful-thai-fonts/thaisans-neue/thaisans-neue.css)
 - **Font-face:** `thaisans-neue`
