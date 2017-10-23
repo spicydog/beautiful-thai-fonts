@@ -23,7 +23,7 @@ Please contact me to see what we can work around or I will remove it as soon as 
 - **License:** GNU General Public License v2.0 w/Font exception
 - **Category:** Serif
 - **CSS File:** [th-sarabun-new/th-sarabun-new.css](th-sarabun-new/th-sarabun-new.css)
-- **CSS URL:** [https://spicydog.github.io/beautiful-thai-fonts/th-sarabun-new/th-sarabun-new.css](https://spicydog.github.io/beautiful-thai-fonts/th-sarabun-new/th-sarabun-new.css)
+- **CSS URL:** [https://cdn.spicydog.org/fonts/th-sarabun-new/th-sarabun-new.css](https://cdn.spicydog.org/fonts/th-sarabun-new/th-sarabun-new.css)
 - **Font-face:** `th-sarabun-new`
 
 ## ThaiSans Neue 1.0
@@ -32,5 +32,5 @@ Please contact me to see what we can work around or I will remove it as soon as 
 - **License:** [thaisans-neue/License.pdf](thaisans-neue/License.pdf)
 - **Category:** Sans Serif
 - **CSS File:** [thaisans-neue/thaisans-neue.css](thaisans-neue/thaisans-neue.css)
-- **CSS URL:** [https://spicydog.github.io/beautiful-thai-fonts/thaisans-neue/thaisans-neue.css](https://spicydog.github.io/beautiful-thai-fonts/thaisans-neue/thaisans-neue.css)
+- **CSS URL:** [https://cdn.spicydog.org/fonts/thaisans-neue/thaisans-neue.css](https://cdn.spicydog.org/fonts/thaisans-neue/thaisans-neue.css)
 - **Font-face:** `thaisans-neue`
